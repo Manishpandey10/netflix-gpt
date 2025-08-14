@@ -1,5 +1,6 @@
 # Create React APP
 - npx create-react-app netflix-gpt ('netflix-gpt' is folder name)
+- This is not LIVE right now due to some bugs... will be available soon.
 
 # Install & Config. Tailwind.css (https://tailwindcss.com/docs/guides/create-react-app)
 - npm install -D tailwindcss
@@ -51,4 +52,5 @@
  
  # GPT
  - GPT search in header
+
  - 
